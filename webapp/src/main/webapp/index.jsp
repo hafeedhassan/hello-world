@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome to new form1</h1>
+    <h1>Welcome to Ansible form</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
